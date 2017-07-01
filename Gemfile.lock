@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/kimromi/ruboty-record_date.git
+  revision: 98262e2ed2fc2eee18923372a77c95353758bbaa
+  specs:
+    ruboty-record_date (0.1.0)
+      ruboty
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -23,6 +30,9 @@ GEM
     multi_json (1.12.1)
     multipart-post (2.0.0)
     rake (12.0.0)
+    redis (3.3.3)
+    redis-namespace (1.5.3)
+      redis (~> 3.0, >= 3.0.4)
     ruboty (1.3.0)
       activesupport
       bundler
@@ -34,6 +44,10 @@ GEM
     ruboty-choose (0.1.2)
       ruboty
     ruboty-page_speed_insights (0.1.1)
+      ruboty
+    ruboty-redis (0.0.6)
+      redis
+      redis-namespace
       ruboty
     ruboty-slack_rtm (2.7.2)
       ruboty (>= 1.1.4)
@@ -64,6 +78,8 @@ DEPENDENCIES
   ruboty-alias
   ruboty-choose
   ruboty-page_speed_insights
+  ruboty-record_date!
+  ruboty-redis
   ruboty-slack_rtm
 
 BUNDLED WITH

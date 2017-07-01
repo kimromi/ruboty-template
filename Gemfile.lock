@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/kimromi/ruboty-record_date.git
-  revision: 98262e2ed2fc2eee18923372a77c95353758bbaa
+  revision: 3b698ddc6bd50fabb3f5d7f62b84787ead11a80f
   specs:
     ruboty-record_date (0.1.0)
       ruboty

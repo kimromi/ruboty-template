@@ -29,7 +29,7 @@ GEM
       dotenv
       mem
       slop
-    ruboty-choose (0.1.1)
+    ruboty-choose (0.1.2)
       ruboty
     ruboty-slack_rtm (2.7.2)
       ruboty (>= 1.1.4)

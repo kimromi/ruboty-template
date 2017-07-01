@@ -22,14 +22,15 @@ GEM
     minitest (5.10.2)
     multi_json (1.12.1)
     multipart-post (2.0.0)
-    rake (11.3.0)
+    rake (12.0.0)
     ruboty (1.3.0)
       activesupport
       bundler
       dotenv
       mem
       slop
-    ruboty-choose (0.1.0)
+    ruboty-choose (0.1.1)
+      ruboty
     ruboty-slack_rtm (2.7.2)
       ruboty (>= 1.1.4)
       slack-api (~> 1.2)

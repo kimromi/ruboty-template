@@ -1,10 +1,3 @@
-GIT
-  remote: git://github.com/kimromi/ruboty-record_date.git
-  revision: 3b698ddc6bd50fabb3f5d7f62b84787ead11a80f
-  specs:
-    ruboty-record_date (0.1.0)
-      ruboty
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -45,6 +38,8 @@ GEM
       ruboty
     ruboty-page_speed_insights (0.1.1)
       ruboty
+    ruboty-record_date (0.1.0)
+      ruboty
     ruboty-redis (0.0.6)
       redis
       redis-namespace
@@ -78,7 +73,7 @@ DEPENDENCIES
   ruboty-alias
   ruboty-choose
   ruboty-page_speed_insights
-  ruboty-record_date!
+  ruboty-record_date
   ruboty-redis
   ruboty-slack_rtm
 

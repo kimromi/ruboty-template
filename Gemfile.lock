@@ -44,7 +44,7 @@ GEM
       ruboty (>= 1.1.4)
       slack-api (~> 1.6)
       websocket-client-simple (~> 0.3.0)
-    ruboty-wiki_search (0.2.0)
+    ruboty-wiki_search (0.3.0)
       git
       ruboty
     slack-api (1.6.1)
